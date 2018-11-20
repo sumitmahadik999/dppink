@@ -351,6 +351,9 @@ body {
 .mobile-head-button {
     margin-bottom: 10px;
 }
+.footer-logo {
+	width: 30%;
+}
 
 @media (min-width: 768px) {
     .banner-cards {
@@ -486,6 +489,9 @@ body {
     font-size: 13px;
     margin-left: 20px;
     width: auto;
+}
+.footer-logo {
+	width: 208px;
 }
 }
 
